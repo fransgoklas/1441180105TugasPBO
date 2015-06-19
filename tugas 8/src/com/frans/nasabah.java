@@ -7,7 +7,7 @@ package com.frans;
 
 public class nasabah {
 
-	// write your code here
+    // write your code here
     private String namaNasabah;
     private rek saldo;
 
@@ -40,4 +40,3 @@ public class nasabah {
                 '}';
     }
 }
-
