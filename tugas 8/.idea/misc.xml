@@ -3,7 +3,11 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+<<<<<<< HEAD
   <component name="IdProvider" IDEtalkID="65F618F96C2734E76421A9AB0C476506" />
+=======
+  <component name="IdProvider" IDEtalkID="1A93C3029F84E41D9389DDA091A3EC53" />
+>>>>>>> origin/frans
   <component name="ProjectKey">
     <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
   </component>
